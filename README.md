@@ -6,6 +6,8 @@ Tambien se aplican tecnicas para realizar busquedas filtradas, donde
 podemos buscar un producto con su nombre en la barra de busqueda, tambien
 podemos filtrar por categoria (hamburguesas, gaseosas, papas) o sino podemos filtrar
 por precio.
+
+
 Nota: Para poder correr el proyecto en el navegador, se debe ejecutar el comando:
 npm install
 Luego de ese comando, ejecutamos el siguiente:
