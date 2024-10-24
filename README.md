@@ -9,7 +9,15 @@ por precio.
 
 
 Nota: Para poder correr el proyecto en el navegador, se debe ejecutar el comando:
+
+
 npm install
+
+
 Luego de ese comando, ejecutamos el siguiente:
+
+
 npm run dev
+
+
 Y finalmente nuestro proyecto estará corriendo.
