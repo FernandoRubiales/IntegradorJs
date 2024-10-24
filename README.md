@@ -8,7 +8,7 @@ podemos filtrar por categoria (hamburguesas, gaseosas, papas) o sino podemos fil
 por precio.
 
 
-Nota: Para poder correr el proyecto en el navegador, se debe ejecutar el comando:
+Nota: Para poder correr el proyecto en el navegador, se debe ejecutar el comando en la consola:
 
 
 npm install
