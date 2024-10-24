@@ -1,4 +1,4 @@
-Proyecto aplicacion web con uso de HTML-CSS-JAVASCRIPT
+Proyecto aplicacion web con uso de HTML-CSS-JAVASCRIPT.
 El proyecto consiste en una tienda de comida rapida, en este caso
 hamburguesas, papas fritas y gaseosas, donde podemos agregar productos
 nuevos, modificar los existentes o eliminar los existentes. 
